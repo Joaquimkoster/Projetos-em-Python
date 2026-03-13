@@ -16,7 +16,6 @@ Repositório dedicado ao estudo prático de Python. Aqui deposito scripts simple
 🛠️ Como executar
 
 Para rodar qualquer script deste repositório, você precisa ter o Python instalado. No terminal, use:
-Bash
 
 python nome_do_arquivo.py
 
