@@ -3,8 +3,6 @@
 Repositório dedicado ao estudo prático de Python. Aqui deposito scripts simples, exercícios de lógica e pequenos projetos automatizados para fixar a sintaxe e as bibliotecas da linguagem.
 🚀 O que tem aqui?
 
-Os arquivos estão organizados por nível de complexidade e tema:
-
     Fundamentos: Variáveis, tipos de dados (strings, ints, floats) e operadores matemáticos.
 
     Estruturas de Controle: Condicionais (if/else) e laços de repetição (for, while).
