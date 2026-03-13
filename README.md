@@ -1,34 +1,37 @@
-🐍 Laboratório de Aprendizagem de Python
+🐍 Python Learning Lab
 
-Repositório dedicado ao estudo prático de Python. Aqui deposito scripts simples, exercícios de lógica e pequenos projetos automatizados para fixar a sintaxe e as bibliotecas da linguagem.
-🚀 O que tem aqui?
+A repository dedicated to the practical study of Python. Here I store simple scripts, logic exercises, and small automated projects to master the language's syntax and libraries.
+🚀 What's in here?
 
-    Fundamentos: Variáveis, tipos de dados (strings, ints, floats) e operadores matemáticos.
+The .py files are organized by topic:
 
-    Estruturas de Controle: Condicionais (if/else) e laços de repetição (for, while).
+    Fundamentals: Variables, data types (strings, ints, floats), and mathematical operators.
 
-    Coleções: Manipulação de Listas, Tuplas, Dicionários e Sets.
+    Control Structures: Conditionals (if/else) and loops (for, while).
 
-    Funções: Modularização de código e escopo de variáveis.
+    Collections: Handling Lists, Tuples, Dictionaries, and Sets.
 
-    Projetos Simples: Calculadoras, conversores de unidades, geradores de senhas e jogos de adivinhação.
+    Functions: Code modularization and variable scope.
 
-🛠️ Como executar
+    Simple Projects: Calculators, unit converters, password generators, and guessing games.
 
-Para rodar qualquer script deste repositório, você precisa ter o Python instalado. No terminal, use:
+🛠️ How to Run
 
-python nome_do_arquivo.py
+To run any script in this repository, you must have Python installed. In your terminal, use:
+Bash
 
-📈 Roteiro de Estudos
+python file_name.py
 
-    [x] Sintaxe Básica e Variáveis
+📈 Study Roadmap
 
-    [x] Estruturas de Decisão e Repetição
+    [x] Basic Syntax and Variables
 
-    [x] Manipulação de Arquivos (I/O)
+    [x] Decision and Repetition Structures
 
-    [ ] Tratamento de Erros (Try/Except)
+    [x] File Handling (I/O)
 
-    [ ] Introdução à Programação Orientada a Objetos (POO)
+    [ ] Error Handling (Try/Except)
 
-    "A legibilidade é importante." — O Zen do Python
+    [ ] Introduction to Object-Oriented Programming (OOP)
+
+    "Readability counts." — The Zen of Python
