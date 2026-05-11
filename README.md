@@ -18,7 +18,6 @@ The .py files are organized by topic:
 🛠️ How to Run
 
 To run any script in this repository, you must have Python installed. In your terminal, use:
-Bash
 
 python file_name.py
 
